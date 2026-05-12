@@ -1,48 +1,44 @@
 # Interview Prep — Q&A Bank
 
-Interview questions and answers grounded in **real decisions made on the Panini B2B project** — so when you tell these stories in interviews, you're not reciting theory, you're describing what you actually did.
+Interview questions and answers grounded in real Panini B2B decisions.
 
 ## How to use
-
-1. **Read each topic file** as we add new sections to the project.
-2. **Practice out loud, not just in your head.** Reading silently feels easy; speaking is where you trip up.
-3. **Pair each answer with the actual document.** Interviewers love when candidates say *"I can show you the actual brief I wrote — would that help?"*
-4. **Update as the project evolves.** When we make a new technical decision, add the question + your answer here while the reasoning is fresh.
+1. Read each topic file
+2. Practice out loud — speaking is where you trip up
+3. Pair answer with the actual document you produced
+4. Update as project evolves
 
 ## Index
 
 | # | Topic | Status |
-|---|-------|--------|
-| 01 | [Product Thinking & Discovery Process](./01-product-thinking.md) | ✅ Ready |
-| 02 | [Product Brief & One-Pager Questions](./02-product-brief-questions.md) | ✅ Ready |
-| 03 | [Setting Goals & Metrics](./03-goals-and-metrics.md) | ✅ Ready |
-| 04 | [Feature Scoping & Brainstorming](./04-feature-scoping.md) | ✅ Ready |
-| 05 | [MVP Filtering & Senior Patterns](./05-mvp-filtering-patterns.md) | ✅ Ready |
-| 06 | MVP Prioritization (Sprint Planning) | ⏳ To be added |
-| 07 | User Flows & Wireframing | ⏳ To be added |
-| 08 | System Design & Architecture | ⏳ To be added |
-| 09 | Tech Stack & Trade-offs | ⏳ To be added |
-| 10 | Frontend & React Specific | ⏳ To be added |
-| 11 | Behavioral / "Tell me about a time" | ⏳ To be added |
-| 12 | Career Gap Story | ⏳ To be added |
+|---|---|---|
+| 01 | [Product Thinking & Discovery](./01-product-thinking.md) | ✅ |
+| 02 | [Product Brief & One-Pager](./02-product-brief-questions.md) | ✅ |
+| 03 | [Goals & Metrics](./03-goals-and-metrics.md) | ✅ |
+| 04 | [Feature Scoping & Brainstorming](./04-feature-scoping.md) | ✅ |
+| 05 | [MVP Filtering & Senior Patterns](./05-mvp-filtering-patterns.md) | ✅ |
+| 06 | [Prioritization & Launch](./06-prioritization-and-launch.md) | ✅ |
+| 07 | [Domain Modeling](./07-domain-modeling.md) | ✅ |
+| 08 | User Flows & Wireframing | ⏳ |
+| 09 | System Design & Architecture | ⏳ |
+| 10 | Tech Stack & Trade-offs | ⏳ |
+| 11 | Frontend & React Specific | ⏳ |
+| 12 | Behavioral / Tell me about a time | ⏳ |
+| 13 | Career Gap Story | ⏳ |
 
-## Format
+## Format per entry
+- Question + common phrasings
+- Why it gets asked
+- Short answer (30 sec)
+- Long answer (2-3 min)
+- Story from this project
+- What NOT to say
+- Follow-up questions
 
-Each entry includes:
-- **The question** — common interview phrasings
-- **Why it gets asked** — what the interviewer is testing for
-- **Short answer** — 30-second confident response
-- **Long answer** — 2-3 minute version with detail
-- **Story to tell from this project** — specific Panini B2B anecdote
-- **What NOT to say** — common junior-level mistakes
-- **Follow-up questions** — what the interviewer might dig into next
+## Pro tip
+Answer in this order:
+1. **Principle** — general approach
+2. **Example** — what you did specifically
+3. **Trade-off** — what you did NOT do, and why
 
-## Pro tip for actual interviews
-
-When asked any question, mentally answer in this order:
-
-1. **The principle** — what's the general approach?
-2. **The example** — what did you do specifically?
-3. **The trade-off** — what did you NOT do, and why?
-
-Senior candidates always include #3. Junior candidates skip it.
+Senior candidates always include #3.
